@@ -1,0 +1,10 @@
+step a project any folder and then open a cmd 
+and fire this command
+npm i
+npm i vader-sentiment
+npm i express
+npm i cors
+npm i nodemon
+and run backend nodemon TensorFlow.js
+and run fortend.html file then you can see input box write your emotion and click submit button.
+and see backend cmd o/p
